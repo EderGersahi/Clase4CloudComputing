@@ -26,8 +26,8 @@ azure
 
 Descarga el uri.json para tener la clave y poder hacer la conexión de la API
 Corre sqlclase4.ipynb para realizar la consulta de sql y el modelo.
-Y ejecuta modelo.pkl para 
-Deployer.ipynb para
+Y ejecuta modelo.pkl para tener el modelo ya previamente entrenado
+Y el Deployer.ipynb para hacer el deployment del modelo en azure
 
 Clonar el repositorio:
 git clone https://github.com/EderGersahi/Clase4CloudComputing.git
