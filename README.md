@@ -25,7 +25,7 @@ json
 azure
 
 Descarga el uri.json para tener la clave y poder hacer la conexión de la API
-Corre sqlclase4.ipynb para realizar la consulta de sql
+Corre sqlclase4.ipynb para realizar la consulta de sql y el modelo.
 Y ejecuta modelo.pkl para 
 Deployer.ipynb para
 
